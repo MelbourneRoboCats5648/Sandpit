@@ -1,0 +1,5 @@
+love = input("Am I your love honey?????".lower())
+if love == "you"
+	print("I love you too")
+else:
+	print("DIEEEEEE U LITTLE CRAP AAA WHY DONT YOU LOVE MEEE")
